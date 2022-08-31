@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CalcBMI</string>
+    <string name="heading">BMI Calculator</string>
+    <string name="wghtHint">Weight in Kg</string>
+    <string name="hghtHint">Height in cm</string>
+    <string name="calc">Calculate</string>
+
+</resources>
